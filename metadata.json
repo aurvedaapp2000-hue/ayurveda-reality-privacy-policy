@@ -1,0 +1,6 @@
+{
+  "name": "ayurveda-reality-privacy-policy",
+  "description": "Official Privacy Policy static website for Ayurveda reality mobile application, built for GitHub Pages hosting, student trust, and Google Play compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
